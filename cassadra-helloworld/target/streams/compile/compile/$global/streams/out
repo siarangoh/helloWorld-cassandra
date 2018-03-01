@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/home/siarangoh/Documentos/SBUX/cassadra-helloworld/src/main/scala/com/cassandra/helloWorld/Main.scala:29:12: could not find implicit value for parameter ex: scala.concurrent.ExecutionContextExecutor[0m
+[0m[[0m[31merror[0m] [0m[0m  oe.create(1.minute)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/siarangoh/Documentos/SBUX/cassadra-helloworld/src/main/scala/com/cassandra/helloWorld/Main.scala:52:81: could not find implicit value for parameter ec: scala.concurrent.ExecutionContextExecutor[0m
+[0m[[0m[31merror[0m] [0m[0m    select.where(_.id eqs clientID).consistencyLevel_=(ConsistencyLevel.ONE).one()[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/siarangoh/Documentos/SBUX/cassadra-helloworld/src/main/scala/com/cassandra/helloWorld/Main.scala:56:90: could not find implicit value for parameter ec: scala.concurrent.ExecutionContextExecutor[0m
+[0m[[0m[31merror[0m] [0m[0m    insert.value(_.id, clientID).value(_.name, nameCLient).value(_.age, ageClient).future()[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m

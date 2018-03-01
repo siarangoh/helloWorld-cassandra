@@ -1,0 +1,15 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/siarangoh/Documentos/SBUX/cassadra-helloworld/target/scala-2.12/cassadra-helloworld_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/siarangoh/Documentos/SBUX/cassadra-helloworld/target/scala-2.12/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/cassandra/helloWorld[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/siarangoh/Documentos/SBUX/cassadra-helloworld/target/scala-2.12/classes/com/cassandra/helloWorld[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/cassandra/helloWorld/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/siarangoh/Documentos/SBUX/cassadra-helloworld/target/scala-2.12/classes/com/cassandra/helloWorld/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/cassandra/helloWorld/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/siarangoh/Documentos/SBUX/cassadra-helloworld/target/scala-2.12/classes/com/cassandra/helloWorld/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/cassandra[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/siarangoh/Documentos/SBUX/cassadra-helloworld/target/scala-2.12/classes/com/cassandra[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/cassandra/helloWorld/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/siarangoh/Documentos/SBUX/cassadra-helloworld/target/scala-2.12/classes/com/cassandra/helloWorld/Main$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
